@@ -1,0 +1,12 @@
+.options-container {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+.feedback_butt {
+  text-transform: capitalize;
+}
+.options-list {
+  display: flex;
+  column-gap: 20px;
+}

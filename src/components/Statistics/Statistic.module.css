@@ -1,0 +1,17 @@
+.statistic_field {
+  margin: 0;
+}
+.stat_list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  margin-bottom: 8px;
+}
+.item {
+  text-transform: capitalize;
+}
+.summ {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+}
